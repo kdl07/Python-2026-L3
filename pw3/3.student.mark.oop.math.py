@@ -47,7 +47,7 @@ def list_students(students):
     for student in students:
         print(f"ID: {student['id']}, Name: {student['name']}, DoB: {student['dob']}")
 
-# --- Needs further explanation ---
+
 # First check if students and/or the courses are available or not
 # Then store the results into course_marks
 # Finally assign to student then store as mark
