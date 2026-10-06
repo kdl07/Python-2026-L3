@@ -1,1 +1,2 @@
-Course ID: 1, Course name: 1, Course credits: 1
+Course ID: 1, Course name: Linear Algebra, Course credits: 4
+Course ID: 2, Course name: Optimization, Course credits: 3

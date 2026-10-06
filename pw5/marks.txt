@@ -1,2 +1,4 @@
-Course ID: 1, Student ID: 1, Student's mark: 1.0
-Course ID: 1, Student ID: 1, Student's mark: 1.0
+Course ID: 1, Student ID: 1, Student's mark: 17.2
+Course ID: 1, Student ID: 2, Student's mark: 14.6
+Course ID: 2, Student ID: 1, Student's mark: 19.2
+Course ID: 2, Student ID: 2, Student's mark: 20.0
