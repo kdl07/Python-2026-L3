@@ -1,0 +1,2 @@
+ Student's ID: 1, Student's name: Alice, Student's DOB: 01/01/2001
+ Student's ID: 2, Student's name: Bob, Student's DOB: 02/02/2002
